@@ -11,8 +11,8 @@ exposures:
       name: Michael McData
       email: data@jaffleshop.com
   
-  - name: Customers_data
-    label: Customers_data
+  - name: customers_data
+    label: customers_data
     type: notebook
     maturity: high
     url: https://tinyurl.com/jaffle-shop-reporting
